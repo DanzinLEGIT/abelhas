@@ -1,0 +1,74 @@
+
+p {
+  margin: 40px;
+  font-size:20px;
+  margin-bottom: 20px;
+  margin-right: 40px;
+  
+}
+h1{
+  margin: 40px;
+  font-size: 30px;
+  line-height: 0%;
+  
+}
+
+
+.imagem1 {
+  display: block;
+  margin: auto;
+}
+body {
+  height: 100vh; 
+  margin: 0;
+  background: linear-gradient(to bottom, white, #75b86f);
+}
+.container {
+  font-size: 1000px;
+}
+p {
+  line-height: 1.0;
+}
+
+.curiosidade {
+  background-image: url('favo.jpg'); 
+  background-size: 40%;
+  background-position: center; 
+  color: rgb(0, 0, 0); 
+  padding: 20px; 
+  border-radius: 8px;
+  background-size: contain;
+  background-repeat: repeat-x 3;
+  margin-right: 40px;
+  margin-left: 40px;
+  border: 1px solid #94a824;
+  
+
+}
+.abelhas {
+  margin:40px;
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat; 
+    
+    padding: 20px; 
+    border-radius: 50% ;
+    border: 5px solid yellow;
+    
+      float: left;
+      margin-right: 10px;
+    
+    
+}
+
+.zangao {
+  background-position: right center;
+  background-attachment: fixed;
+  margin-left:  1300px;
+  text-align: left;
+    padding: 20px; 
+    border-radius: 50% ;
+    border: 5px solid yellow;
+    float: right;
+      margin-left : 10px;
+}
